@@ -1,7 +1,7 @@
 package exercicio03;
 
-/*3) Escreva um algoritmo para ler o salário mensal atual de um funcionário e o percentual de reajuste.
- *  Calcular e escrever o valor do novo salário.*/
+//3) Escreva um algoritmo para ler o salário mensal atual de um funcionário e o percentual de reajuste.
+//  Calcular e escrever o valor do novo salário.*/
 
 import java.util.Scanner;
 
